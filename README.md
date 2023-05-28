@@ -4,5 +4,5 @@ Highly skilled and experienced full-stack software developer with a diverse rang
 I can be contacted through [LinkedIn](https://www.linkedin.com/in/matt-chap/) where I have my resume, certifications, badges and more.
 
 
-![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=matt-chap&show_icons=true&theme=radical)
+![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=matt-chap&show_icons=true&theme=dark)
 
